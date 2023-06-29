@@ -1,4 +1,4 @@
-#!/home/gpds/Documentos/TEMP_MONITORATION_WEBAPP/.venv/bin/python3
+#!/home/emanuel/Documents/temp_website/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
